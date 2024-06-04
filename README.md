@@ -1,6 +1,5 @@
 ## Hello, I'm Ray;)
 
-[![blog](https://img.shields.io/badge/Blog-ceoletter.cn-06aee9?style=flat-square)](https://ceoletter.cn/author/ray/)
 [![hackernews](https://img.shields.io/badge/Company-万维广告-F2572D?style=flat-square)](https://wwads.cn)
 [![mail](https://img.shields.io/badge/Email-ray@wwads.cn-008972?style=flat-square)](mailto:ray@wwads.cn)
 
